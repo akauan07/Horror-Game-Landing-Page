@@ -8,7 +8,7 @@
 
 body {
   background: #1E1E1E url(/img/image.png) no-repeat fixed center;
-  box-shadow: 10rem 50rem 100rem #060101;
+  /* box-shadow: 10rem 50rem 100rem #060101; */
   text-align: center;
 }
 
@@ -20,7 +20,6 @@ div {
 
 h1,
 span {
-  /* font-weight: bold; */
   color: #FFFFFF;
   font-size: 1.6rem;
 }
@@ -30,6 +29,7 @@ span {
 }
 
 h2 {
+  margin: .4rem 0rem;
   font-family: 'Emilys Candy', cursive;
   color: #FFC700;
   font-size: 6.4rem;
@@ -51,7 +51,7 @@ ul {
 
 ul li {
   padding: 1.2rem 3.2rem;
-  margin: 18.3rem 4.8rem;
+  margin: 18.3rem .8rem 0rem .8rem;
 }
 
 a {
@@ -60,13 +60,22 @@ a {
   font-weight: bold;
 }
 
-#inf {
+#inf a {
   color: #FFFFFF;
-
   opacity: .7;
 }
 
+#inf:hover {
+  background: #FFFFFF;
+  /* opacity: .1; */
+}
+
+#inf a:hover {
+  color: #000000;
+}
+
 #play {
+  justify-items: end;
   background: #FFC700;
 }
 
