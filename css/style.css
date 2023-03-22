@@ -7,8 +7,7 @@
 }
 
 body {
-  background: #1E1E1E url(/img/image.png) no-repeat fixed center;
-  box-shadow: 10rem 50rem 100rem #060101;
+  background: #1E1E1E url(/img/image.png)no-repeat fixed center/cover;
   text-align: center;
 }
 
@@ -20,7 +19,6 @@ div {
 
 h1,
 span {
-  /* font-weight: bold; */
   color: #FFFFFF;
   font-size: 1.6rem;
 }
@@ -30,6 +28,7 @@ span {
 }
 
 h2 {
+  margin: .4rem 0rem;
   font-family: 'Emilys Candy', cursive;
   color: #FFC700;
   font-size: 6.4rem;
@@ -47,11 +46,18 @@ ul {
   display: flex;
   justify-content: center;
   list-style: none;
+
+}
+
+.btn ul li a {
+  padding: 1.2rem 3.2rem;
+  text-transform: uppercase;
+  font-size: 2.0rem;
+  font-weight: bold;
 }
 
 ul li {
-  padding: 1.2rem 3.2rem;
-  margin: 18.3rem 4.8rem;
+  margin: 18.3rem .8rem 0rem .8rem;
 }
 
 a {
@@ -60,17 +66,28 @@ a {
   font-weight: bold;
 }
 
-#inf {
+.btn ul li #btn1 {
   color: #FFFFFF;
-
   opacity: .7;
 }
 
-#play {
+.btn ul li #btn2 {
   background: #FFC700;
-}
-
-#play a {
   color: #000000;
   text-decoration: none;
+}
+
+.btn ul li #btn1:hover {
+  background: #FFFFFF;
+  color: #000000;
+  opacity: .3;
+  transition: 800ms;
+}
+
+.btn ul li #btn2:hover {
+  background: #FF990D;
+  color: #FFFFFF;
+  text-decoration: none;
+  opacity: .7;
+  transition: 800ms;
 }
