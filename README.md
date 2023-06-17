@@ -1,7 +1,5 @@
-# Horror-Game-Landing-Page
-
 <h2 align="center">
-  Landing Page Jogo de Terror
+  # Horror-Game-Landing-Page
   </h2>
 Este é um projeto de uma landing page para um jogo de terror, desenvolvido com HTML e CSS. A landing page é projetada para atrair jogadores e criar uma atmosfera assustadora que reflita o tema e a experiência do jogo.
 
@@ -9,6 +7,7 @@ Estrutura do Projeto
 A estrutura do projeto da landing page do jogo de terror é a seguinte:
   
   landing-page-jogo-terror/
+
 ├── .vscode/
 │   ├── settings.json
 ├── css/
