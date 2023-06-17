@@ -8,14 +8,21 @@ A estrutura do projeto da landing page do jogo de terror é a seguinte:
   
   ## landing-page-jogo-terror/
 
-**** ├── .vscode/
-│   ├── settings.json
-├── css/
-│   ├── style.css
-├── img/
-│   ├── image.png
-├── index.html
-└── README.md
+  ├── .vscode/
+
+  │   ├── settings.json
+
+  ├── css/
+
+  │   ├── style.css
+
+  ├── img/
+
+  │   ├── image.png
+
+  ├── index.html
+
+  └── README.md
 
 <p>
 A pasta css/ contém o arquivo style.css, onde estão definidas as regras de estilo para a página.
@@ -26,3 +33,11 @@ O arquivo index.html é a página principal da landing page, onde todo o conteú
   
 Este arquivo README.md é uma documentação para fornecer informações sobre o projeto.
 <p/>
+
+
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=igorgoiis&show_icons=true&theme=tokyonight" alt="igorgoiis's stats"/>
+  <br><br>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgoiis&layout=compact&theme=tokyonight" alt="igorgoiis's most languages"/>
+</p>
