@@ -8,7 +8,7 @@ A estrutura do projeto da landing page do jogo de terror é a seguinte:
   
   ## landing-page-jogo-terror/
 
-****├── .vscode/
+**** ├── .vscode/
 │   ├── settings.json
 ├── css/
 │   ├── style.css
