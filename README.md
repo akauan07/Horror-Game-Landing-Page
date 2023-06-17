@@ -6,9 +6,9 @@ Este é um projeto de uma landing page para um jogo de terror, desenvolvido com 
 Estrutura do Projeto
 A estrutura do projeto da landing page do jogo de terror é a seguinte:
   
-  landing-page-jogo-terror/
+  ## landing-page-jogo-terror/
 
-├── .vscode/
+**├── .vscode/
 │   ├── settings.json
 ├── css/
 │   ├── style.css
@@ -16,7 +16,7 @@ A estrutura do projeto da landing page do jogo de terror é a seguinte:
 │   ├── image.png
 ├── index.html
 └── README.md
-
+**
 <p>
 A pasta css/ contém o arquivo style.css, onde estão definidas as regras de estilo para a página.
   
