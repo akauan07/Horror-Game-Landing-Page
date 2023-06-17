@@ -51,4 +51,4 @@ Você pode personalizar a landing page do jogo de terror de acordo com as caract
 
 - **Alterar o Conteúdo:** Edite o arquivo index.html para incluir informações específicas sobre a história, os personagens e a jogabilidade do seu jogo de terror.
 - **Estilizar a Página:** Faça alterações no arquivo `style.css` para personalizar a aparência da página, ajustando cores, fontes e outros estilos para se adequarem ao visual do seu jogo.
-- **Incluir Recursos Adicionais:** Se desejar, você pode adicionar recursos adicionais à página, como depoimentos de jogadores, vídeos de gameplay ou elementos interativos para
+- **Incluir Recursos Adicionais:** Se desejar, você pode adicionar recursos adicionais à página, como depoimentos de jogadores, vídeos de gameplay ou elementos interativos como efeitos sonoros, vídeos ou animações extras, para intensificar a sensação de terror.
