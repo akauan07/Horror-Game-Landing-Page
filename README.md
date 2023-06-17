@@ -16,8 +16,8 @@ A estrutura do projeto da landing page do jogo de terror é a seguinte:
 ├── index.html
 └── README.md
 
-<li>A pasta css/ contém o arquivo style.css, onde estão definidas as regras de estilo para a página.<li>
-<li>A pasta img/ armazena as imagens usadas na landing page, como o fundo assustador (background.jpg) e o logotipo personalizado (logo.png).<li>
-<li>O arquivo index.html é a página principal da landing page, onde todo o conteúdo e estrutura são definidos.<li>
-<li>Este arquivo README.md é uma documentação para fornecer informações sobre o projeto.<li>
+<li>A pasta css/ contém o arquivo style.css, onde estão definidas as regras de estilo para a página.
+A pasta img/ armazena as imagens usadas na landing page, como o fundo assustador (background.jpg) e o logotipo personalizado (logo.png).
+O arquivo index.html é a página principal da landing page, onde todo o conteúdo e estrutura são definidos.
+Este arquivo README.md é uma documentação para fornecer informações sobre o projeto.<li>
   
