@@ -1,6 +1,10 @@
 <h2 align="center">
   Horror-Game-Landing-Page
   </h2>
+  <p align="center">
+  <a href="README.en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="README.md">Português</a>&nbsp;&nbsp;&nbsp;
+</p>
 Este é um projeto de uma landing page para um jogo de terror, desenvolvido com HTML e CSS. A landing page é projetada para atrair jogadores e criar uma atmosfera assustadora que reflita o tema e a experiência do jogo.
 
 ## Estrutura do Projeto
